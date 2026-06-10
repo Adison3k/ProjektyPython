@@ -453,4 +453,4 @@ Wynik jest ograniczony do przedziału [0, 100].
 - **Hashe wyłącznie edukacyjnie** — SHA-256 i MD5 są obliczane lokalnie i służą jedynie do demonstracji; aplikacja nie przechowuje ich ani nie porównuje z bazami.
 - **MD5 jest przestarzały** — wyświetlany wyłącznie jako przykład słabego algorytmu; nie należy go używać do przechowywania haseł.
 
-> **Uwaga:** Aplikacja jest narzędziem edukacyjnym. Szacowanie brute-force zakłada atak GPU na zahashowane hasło (MD5) — rzeczywisty czas dla bezpiecznych algorytmów (bcrypt, Argon2) jest wielokrotnie dłuższy. Nie używaj aplikacji do testowania cudzych haseł bez zgody właściciela.
+> **Uwaga:** Aplikacja zrobiona amatorsko wykonana na zaliczenie przedmiotu!

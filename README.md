@@ -126,3 +126,5 @@ password-tester/
 ## Licencja
 
 MIT — do dowolnego użytku, w tym edukacyjnego.
+
+Wykonany projetk w ramach zaliczenia : Adrian Trzciński IS 2 rok

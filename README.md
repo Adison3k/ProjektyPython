@@ -25,11 +25,7 @@ Narzędzie wiersza poleceń do analizy bezpieczeństwa haseł. Testuje hasło po
 ## Instalacja
 
 ```bash
-git clone https://github.com/twoj-uzytkownik/password-tester.git
-cd password-tester
-```
-
-Lub po prostu pobierz plik `password_tester.py`.
+ pobierz plik `password_tester.py`.
 
 ---
 
